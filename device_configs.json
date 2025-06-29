@@ -3,9 +3,5 @@
     "is_active": true,
     "feature_a": true,
     "expire_at": "2025-07-31"
-  },
-  "e4e2238b45c86232e08c93169db86bf22f3a440dc6537fad56671a5d890c0383": {
-    "expire_at": "2025-06-30",
-    "is_active": true
   }
 }
