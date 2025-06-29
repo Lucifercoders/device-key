@@ -1,0 +1,7 @@
+{
+  "abcd1234efgh5678": {
+    "is_active": true,
+    "feature_a": true,
+    "expire_at": "2025-07-31"
+  }
+}
