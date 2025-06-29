@@ -3,8 +3,6 @@
     "nick": "Lucifer_servic",
     "expire_at": "2025-06-30",
     "is_active": true,
-    "modules": [
-      "1.py"
-    ]
+    "modules": []
   }
 }
