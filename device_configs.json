@@ -9,8 +9,8 @@
   },
   "eaa0d9a1004060e4cb6eb6572f8ebd86e4106f0ec957fb9e2066f6f3a68e6ee6": {
     "nick": "Test",
-    "expire_at": "2025-07-05",
-    "is_active": false,
+    "expire_at": "",
+    "is_active": true,
     "modules": [
       "zakas35device.py"
     ]
