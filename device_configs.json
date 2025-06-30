@@ -11,6 +11,8 @@
     "nick": "Zakas35k",
     "expire_at": "2025-07-10",
     "is_active": true,
-    "modules": []
+    "modules": [
+      "zakas35k.py"
+    ]
   }
 }
