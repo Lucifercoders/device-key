@@ -11,6 +11,8 @@
     "nick": "Lucifer",
     "expire_at": "2025-07-05",
     "is_active": true,
-    "modules": []
+    "modules": [
+      "zakas35kdevice.py"
+    ]
   }
 }
