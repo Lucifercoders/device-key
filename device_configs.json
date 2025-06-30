@@ -3,8 +3,6 @@
     "nick": "Lucifer_servic",
     "expire_at": "",
     "is_active": false,
-    "modules": [
-      "testdve.py"
-    ]
+    "modules": []
   }
 }
