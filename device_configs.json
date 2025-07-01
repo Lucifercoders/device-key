@@ -3,5 +3,11 @@
     "nick": "Lucifer_servic",
     "expire": "2025-07-01",
     "modules": {}
+  },
+  "eaa0d9a1004060e4cb6eb6572f8ebd86e4106f0ec957fb9e2066f6f3a68e6ee6": {
+    "nick": "Zakas",
+    "expire": "2025-07-20",
+    "is_active": true,
+    "modules": {}
   }
 }
