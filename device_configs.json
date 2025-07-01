@@ -8,6 +8,10 @@
     "nick": "Lucifer",
     "expire": "2025-07-10",
     "is_active": true,
-    "modules": {}
+    "modules": {
+      "shifr.py": {
+        "expire": "2025-07-10"
+      }
+    }
   }
 }
