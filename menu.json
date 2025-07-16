@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "Raqamlarni tekshirish",
+        "file": "raqam_tekshirish.py"
+    },
+    {
+        "id": "2",
+        "name": "Nomer ulash",
+        "file": "raqam_ulash.py"
+    },
+    {
+        "id": "3",
+        "name": "Raqamlarni nikname username tekshirish",
+        "file": "nikname_tekshirish.py"
+    }
+    // ... qolgan menyu elementlari
+]
